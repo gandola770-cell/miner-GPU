@@ -1,0 +1,6 @@
+{
+  "name": "NEXUS GPU Rig Miner & Telemetry",
+  "description": "Real-time GPU mining rig telemetry, interactive 3D hardware inspector, multi-GPU overclock tuning, algorithm flight sheets, and stratum pool controller.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
